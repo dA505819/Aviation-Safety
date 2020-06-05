@@ -10,7 +10,7 @@ The dataset is free from any missing values.
 
 # Outcome
 
-The cause of accidents was analyzed using visualizations like bar plot etc. 
+The cause of accidents was analyzed using visualizations like histogram, bar plot etc. 
 ![Report](https://github.com/dA505819/Aviation-Safety/blob/master/Story.PNG)
 
 The final report was prepared in tableau [Aviation_Safety](https://public.tableau.com/profile/dhruv.aggarwal8198#!/vizhome/AviationSafety/Story1) laying all possible reasons for accidents be presented in front of stakeholders with storytelling.
