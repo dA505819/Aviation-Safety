@@ -1,6 +1,6 @@
 # Aviation Safety
 
-The project was implemented to know the reasons for the accidents and fatalities in airplanes accidents using dataset.
+The project is designed to know the reasons for the accidents and fatalities in airplanes accidents using dataset.
 
 # Dataset
 
