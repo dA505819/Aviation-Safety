@@ -6,7 +6,7 @@ The project is designed to know the reasons for the accidents and fatalities in 
 
 The dataset was downloaded from aviation safety network. It includes data from 1984-1999 year and 2000-2014 year containing number of fatal accidents amd fatalities between the time period. It also includes airline and distance covered by available seats per week in airline.
 
-The dataset is free from any missing values.
+The dataset is free from missing values.
 
 # Outcome
 
