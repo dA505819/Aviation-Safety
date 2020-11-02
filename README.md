@@ -10,7 +10,7 @@ The dataset is free from missing values.
 
 # Outcome
 
-The cause of accidents was analyzed using visualizations like histogram, bar plot etc. 
+The cause of accidents was analyzed using the visualizations like histogram, bar plot etc. 
 
 ![Report_picture](https://github.com/dA505819/Aviation-Safety/blob/master/Story.PNG)
 
