@@ -1,6 +1,6 @@
 # Aviation Safety
 
-The project is designed to know the reasons for the accidents and fatalities in airplanes from 1984-1999 and 2000-2014 years.
+The project is designed to know the reasons for the accidents and fatalities in airplanes from 1984-1999 and 2000-2014 periods.
 
 # Dataset
 
